@@ -13,8 +13,8 @@
 
 
 -- Volcando estructura de base de datos para jlsistem_asistencia
-CREATE DATABASE IF NOT EXISTS `jlsistem_asistencia` /*!40100 DEFAULT CHARACTER SET latin1 */;
-USE `jlsistem_asistencia`;
+CREATE DATABASE IF NOT EXISTS `asistencia` /*!40100 DEFAULT CHARACTER SET latin1 */;
+USE `asistencia`;
 
 -- Volcando estructura para tabla jlsistem_asistencia.alumnos
 CREATE TABLE IF NOT EXISTS `alumnos` (
