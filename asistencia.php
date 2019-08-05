@@ -31,7 +31,7 @@
 <body>
 	<?php
 
-		$cnx = new mysqli('localhost','jlsistem_sa','S1st3m@s011108','jlsistem_asistencia');
+		$cnx = new mysqli('localhost','root','','asistencia');
 		if ($_POST['submit']) {
 			
 			$matricula = $_POST['matricula'];

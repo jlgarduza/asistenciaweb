@@ -30,7 +30,7 @@
 			<div class="table-responsive">
 				<h2>Alumnos</h2>
 				<?php
-					$cnx = new mysqli('localhost','jlsistem_sa','S1st3m@s011108','jlsistem_asistencia');
+					$cnx = new mysqli('localhost','root','','asistencia');
 
 					$buscar_alumnos = $cnx->query("SELECT * FROM alumnos");
 				?>
