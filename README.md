@@ -11,3 +11,8 @@ Sistema sencillo para verificar asistencia de los alumnos, realizado con html, p
 <b>NOTA:</b>
 <br />
 El sistema es adaptable a cualquier dispositivo, esta realizado con HTML5, framework Boostrasp 4, PHP y tiene una base de datos MySQL.
+<br />
+
+<b>ACTUALIZACIÓN / 07-08-2019 </b>
+<br />
+Se agrego la opción de autocomplete de jQuery en el modulo de checar asistencia.
